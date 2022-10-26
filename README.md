@@ -1,6 +1,6 @@
 # Capturing Body Motion in 3D
 
-A project to track a person in the physical environment and visualize their motion by applying the same body movements to a virtual character.  
+A project to track a person in the physical environment and visualize their motion by replicating the same body movements to a virtual character.  
 
 ## Overview
 
